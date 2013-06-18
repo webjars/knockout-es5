@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>knockout-es5</artifactId>
-    <version>399343a01d-SNAPSHOT</version>
+    <version>399343a01d</version>
     <name>knockout-es5</name>
     <description>WebJar for knockout-es5</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/knockout-es5</url>
         <connection>scm:git:https://github.com/webjars/knockout-es5.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/knockout-es5.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>knockout-es5-399343a01d</tag>
     </scm>
     
     <dependencies>
